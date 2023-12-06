@@ -1,0 +1,6 @@
+C:\temp\ws-vs2019\Soma vetores\Soma vetores\bin\Debug\Soma vetores.exe.config
+C:\temp\ws-vs2019\Soma vetores\Soma vetores\bin\Debug\Soma vetores.exe
+C:\temp\ws-vs2019\Soma vetores\Soma vetores\bin\Debug\Soma vetores.pdb
+C:\temp\ws-vs2019\Soma vetores\Soma vetores\obj\Debug\Soma vetores.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Soma vetores\Soma vetores\obj\Debug\Soma vetores.exe
+C:\temp\ws-vs2019\Soma vetores\Soma vetores\obj\Debug\Soma vetores.pdb
